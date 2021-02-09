@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 🎯💻 Intermediate HTML Challenges 🏆🏅
+This repository contains Intermediate HTML Challenges & a Wiki that has complete tutorial for HTML Intermediates <br><br>
+ ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/HTML-Challenges-Intermediate?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/HTML-Challenges-Intermediate?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/HTML-Challenges-Intermediate?style=for-the-badge)](https://github.com/hridaya423/Competitive-Programming-Solutions/watchers)
+ <br><br>
+![HTML-Challenges-Intermediate](https://socialify.git.ci/LearnEarn-Fun/HTML-Challenges-Intermediate/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-You can use the [editor on GitHub](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Challenges:
+<ol>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/Forms%20Challenges">Form Challenges</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/HTML%20Emojis(UTF-8)">Emoji's (UTF-8)</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/HTML%20Styles">HTML Styles(CSS)</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/HTML%20Symbols">HTML Symbols</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/Tables%20Challenges">Table Challenges</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/tree/main/Video%20Embeds">Video Embeds</a></li>
+</ol>
 
-### Markdown
+## Want to Contribute to this repository?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
 
-```markdown
-Syntax highlighted code block
+## ❤️ Project Admin
 
-# Header 1
-## Header 2
-### Header 3
+|                                     <a href="https://github.com/LearnEarn-Fun"><img src="https://avatars.githubusercontent.com/u/66988598?s=400&u=cea2effa83b4b145d26b117a4dc7dec028a9b3ca&v=4"/></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Learn Earn & Fun](https://www.github.com/LearnEarn-Fun)**                                                                                    |
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## LICENSE
+This Repository follows the [MIT License](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/blob/main/LICENSE).
