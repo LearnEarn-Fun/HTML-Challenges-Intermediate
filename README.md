@@ -29,4 +29,4 @@ Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-Intermedi
 
 
 ## LICENSE
-This Repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/blob/main/LICENSE).
+This repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/blob/main/LICENSE).
